@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=我是灰灰(X_huihui);来自河南濮阳的初三生)
 
-<a href=".\README.md">简体中文</a> English
+<h1><a href=".\README.md">简体中文</a> English</h1>
 
 <h1 align="center">Viewer</h1>
 
@@ -25,23 +25,25 @@ Also, i can create Minecraft server plugin(only for BukkitApi server), i can cre
 
 <h1 align="center"> Coding Ability </h1>
 
-
-I am good at：java、python、c#、E Language
+I am good at：java、python、c#、易语言
 
 Also：software development, create mod for unity game and so on, write algorithm(But never been to LeetCode)
 
 i am not good at：web(JS/HTML/CSS)&UI
 
-Now I am coding project: [The Worst Engine] + [LogLangSystem]
+Now I am coding project: 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=TheWorstEngine)](https://github.com/xiaohuihui1022/TheWorstEngine)
 
-[The Worst Engine] : https://github.com/xiaohuihui1022/TheWorstEngine
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=log-lang-system)](https://github.com/xiaohuihui1022/log-lang-system)
 
-[LogLangSystem] : https://github.com/xiaohuihui1022/log-lang-system
+<h1 align="center">Github Achievements</h1>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohuihui1022&show_icons=true&count_private=true&title_color=000000&text_color=000000&bg_color=50,ff6b6b,ffb56b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
+![xiaohuihui1022's github stats](https://github-readme-stats.vercel.app/api?username=xiaohuihui1022&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
 
-My github:     https://github.com/xiaohuihui1022
+<h2><a href="https://github.com/xiaohuihui1022">My Github</a></h2>
 
-My gitee:       https://gitee.com/huihui1022
+<h2><a href="https://gitee.com/huihui1022">My Gitee</a></h2>
 
-My self website:  https://xiaohuihui1022.github.io/
+<h2><a href="https://xiaohuihui1022.github.io/">Self Website</a></h2>
 
-Minecraft Programming Team:  https://www.minept.top/
+<h2><a href="https://www.minept.top/">Minecraft Programming Team</a></h2>

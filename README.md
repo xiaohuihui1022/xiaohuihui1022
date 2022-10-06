@@ -1,9 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=我是灰灰(X_huihui);来自河南濮阳的初三生)
 
-简体中文 <a href=".\README_EN.md" size=1>English</a>
+<h1>简体中文 <a href=".\README_EN.md">English</a></h1>
 
 <h1 align="center">访客数</h1>
-
 
 ![:huihui](https://count.getloli.com/get/@:huihui)
 
@@ -32,16 +31,19 @@ MC主玩Hypixel，ID为X_huihui，有意者可以自行查战绩(不建议查，
 
 不擅长：web开发(JS/HTML/CSS)、UI设计
 
-目前在写的程序是[The Worst Engine] + [LogLangSystem]
+目前在写的程序是:
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=TheWorstEngine)](https://github.com/xiaohuihui1022/TheWorstEngine)
 
-[The Worst Engine] : https://github.com/xiaohuihui1022/TheWorstEngine
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=log-lang-system)](https://github.com/xiaohuihui1022/log-lang-system)
 
-[LogLangSystem] : https://github.com/xiaohuihui1022/log-lang-system
+<h1 align="center">个人成就</h1>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohuihui1022&show_icons=true&count_private=true&title_color=000000&text_color=000000&bg_color=50,ff6b6b,ffb56b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
+![xiaohuihui1022's github stats](https://github-readme-stats.vercel.app/api?username=xiaohuihui1022&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
 
-本人github:     https://github.com/xiaohuihui1022
+<h2><a href="https://github.com/xiaohuihui1022">本人github</a></h2>
 
-本人gitee:       https://gitee.com/huihui1022
+<h2><a href="https://gitee.com/huihui1022">本人gitee</a></h2>
 
-本人自建网站:  https://xiaohuihui1022.github.io/
+<h2><a href="https://xiaohuihui1022.github.io/">本人自建网站</a></h2>
 
-MPT(帮写mod网站):  https://www.minept.top/
+<h2><a href="https://www.minept.top/">MPT(帮写mod网站)</a></h2>
