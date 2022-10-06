@@ -1,6 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=我是灰灰(X_huihui);来自河南濮阳的初三生)
 
-<h1>简体中文 <a href=".\README_EN.md">English</a></h1>
+<h1>Choose Your Reading Language</h1>
+
+<h1 align="center">简体中文 <a href=".\README_EN.md">English</a></h1>
 
 <h1 align="center">访客数</h1>
 
@@ -43,10 +45,10 @@ MC主玩Hypixel，ID为X_huihui，有意者可以自行查战绩(不建议查，
 
 ![xiaohuihui1022's github stats](https://github-readme-stats.vercel.app/api?username=xiaohuihui1022&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
 
-<h2><a href="https://github.com/xiaohuihui1022">本人github</a></h2>
+<h2 align="center"><a href="https://github.com/xiaohuihui1022">本人github</a></h2>
 
-<h2><a href="https://gitee.com/huihui1022">本人gitee</a></h2>
+<h2 align="center"><a href="https://gitee.com/huihui1022">本人gitee</a></h2>
 
-<h2><a href="https://xiaohuihui1022.github.io/">本人自建网站</a></h2>
+<h2 align="center"><a href="https://xiaohuihui1022.github.io/">本人自建网站</a></h2>
 
-<h2><a href="https://www.minept.top/">MPT(帮写mod网站)</a></h2>
+<h2 align="center"><a href="https://www.minept.top/">MPT(帮写mod网站)</a></h2>
