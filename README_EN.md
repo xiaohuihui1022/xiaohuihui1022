@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=我是灰灰(X_huihui);来自河南濮阳的初三生)
 
+<h1>Choose Your Reading Language</a>
+
 <h1 align="center"><a href=".\README.md">简体中文</a> English</h1>
 
 <h1 align="center">Viewer</h1>
