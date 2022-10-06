@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=我是灰灰(X_huihui);来自河南濮阳的初三生)
 
-<h1><a href=".\README.md">简体中文</a> English</h1>
+<h1 align="center"><a href=".\README.md">简体中文</a> English</h1>
 
 <h1 align="center">Viewer</h1>
 
@@ -43,10 +43,10 @@ Now I am coding project:
 
 ![xiaohuihui1022's github stats](https://github-readme-stats.vercel.app/api?username=xiaohuihui1022&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
 
-<h2><a href="https://github.com/xiaohuihui1022">My Github</a></h2>
+<h2 align="center"><a href="https://github.com/xiaohuihui1022">My Github</a></h2>
 
-<h2><a href="https://gitee.com/huihui1022">My Gitee</a></h2>
+<h2 align="center"><a href="https://gitee.com/huihui1022">My Gitee</a></h2>
 
-<h2><a href="https://xiaohuihui1022.github.io/">Self Website</a></h2>
+<h2 align="center"><a href="https://xiaohuihui1022.github.io/">Self Website</a></h2>
 
-<h2><a href="https://www.minept.top/">Minecraft Programming Team</a></h2>
+<h2 align="center"><a href="https://www.minept.top/">Minecraft Programming Team</a></h2>
