@@ -38,6 +38,7 @@ MC主玩Hypixel，ID为X_huihui，有意者可以自行查战绩(不建议查，
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=log-lang-system)](https://github.com/xiaohuihui1022/log-lang-system)
 
 <h1 align="center">个人成就</h1>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohuihui1022&show_icons=true&count_private=true&title_color=000000&text_color=000000&bg_color=50,ff6b6b,ffb56b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
 
 ![xiaohuihui1022's github stats](https://github-readme-stats.vercel.app/api?username=xiaohuihui1022&title_color=000000&text_color=000000&layout=compact&width=100%&bg_color=30,ff6b6b,ffff66,66ff66,66ffa3,66ffff,6bb5ff,6b6bff,a66bff,ff66ff)
