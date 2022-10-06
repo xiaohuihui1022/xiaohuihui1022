@@ -15,7 +15,7 @@ I only upload videos on Bilibili, Xigua, AiPai, Youku, Youtube. Now I only uploa
 
 I only play Minecraft, Grand Theft Auto and Rhythm games.
 
-Mainly Rhythm games(Ability Large to Small): Phigros/ADOFAI/Orzmic/KALPA/节奏医生/MUSE DASH/Malody/喵赛克/Cytus/Arcaea/osu!mania
+Mainly Rhythm games(Ability Large to Small): Phigros/ADOFAI/Orzmic/KALPA/Rhythm Doctor/MUSE DASH/Malody/MUSYNC/Cytus/Arcaea/osu!mania
 
 GrandTheftAuto: maybe Beta version for GTASA is up to date
 
@@ -26,7 +26,7 @@ Also, i can create Minecraft server plugin(only for BukkitApi server), i can cre
 <h1 align="center"> Coding Ability </h1>
 
 
-I am good at：java、python、c#、易语言
+I am good at：java、python、c#、E Language
 
 Also：software development, create mod for unity game and so on, write algorithm(But never been to LeetCode)
 
