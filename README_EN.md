@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=My-name's灰灰(X_huihui);AAAAAAAAAAAAAAA-junior-high-school-student-form-PuYang-HeNan)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=My-name's灰灰(X_huihui);AAAAAAAAAAAAAAAThe-junior-high-school-student-form-PuYang-HeNan)
 
 <h1>Choose Your Reading Language</a>
 
