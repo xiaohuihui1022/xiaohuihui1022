@@ -6,7 +6,8 @@
 
 <h1 align="center">访客数</h1>
 
-![:huihui](https://count.getloli.com/get/@:huihui)
+
+<h1 align="center">![:huihui](https://count.getloli.com/get/@:huihui)</h1>
 
 <h1 align="center">个人介绍</h1>
 
