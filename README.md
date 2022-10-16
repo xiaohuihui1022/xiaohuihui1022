@@ -7,7 +7,7 @@
 <h1 align="center">访客数</h1>
 
 
-<h1 align="center"><img src="https://count.getloli.com/get/@:huihui"></h1>
+<img src="https://count.getloli.com/get/@:huihui">
 
 <h1 align="center">个人介绍</h1>
 
