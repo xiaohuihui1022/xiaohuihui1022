@@ -23,13 +23,13 @@ GrandTheftAuto: maybe Beta version for GTASA is up to date
 
 Minecraft mainly play Hypixel, id:X_huihui, if u are interested about it u can find out how vegetable i am. 
 
-Also, i can create Minecraft server plugin(only for BukkitApi server), i can create mods too.
+Also, i can make Minecraft server plugin(only for BukkitApi server), i can create mods too.
 
 <h1 align="center"> Coding Ability </h1>
 
-I am good at：java、python、c#、E-Lang
+I am good at：java、python、c#、E-Lang(A Chinese Coding Language based on C++)
 
-Also：software development, create mod for unity game and so on, write algorithm(But never been to LeetCode)
+Also：software development, create mod for games especially in Unity games, write algorithm(But never been to LeetCode)
 
 i am not good at：web(JS/HTML/CSS)&UI
 
