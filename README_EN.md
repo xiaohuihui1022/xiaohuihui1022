@@ -12,7 +12,7 @@
 
 Here's X_huihui,the group leader of Minecraft Programming Team, I usually use "X_huihui"、"小灰灰"、"灰灰awa" for nicknames.
 
-I am used to upload videos on Bilibili, Xigua, AiPai, Youku, Youtube. Now I only upload videos on Bilibili.
+I used to upload videos on Bilibili, Xigua, AiPai, Youku, Youtube. Now I only upload videos on Bilibili.
 
 
 I only play Minecraft, Grand Theft Auto and Rhythm games.
