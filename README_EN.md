@@ -15,7 +15,7 @@ Here's X_huihui,the group leader of Minecraft Programming Team, I usually use "X
 I used to upload videos on Bilibili, Xigua, AiPai, Youku, Youtube. Now I only upload videos on Bilibili.
 
 
-I only play Minecraft, Grand Theft Auto and Rhythm games.
+I like to play Minecraft, Grand Theft Auto and Rhythm games.
 
 Mainly Rhythm games(Ability Large to Small): Phigros/ADOFAI/Orzmic/KALPA/Rhythm Doctor/MUSE DASH/Malody/MUSYNC/Cytus/Arcaea/osu!mania
 
