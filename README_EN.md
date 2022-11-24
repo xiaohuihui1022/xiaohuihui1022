@@ -17,7 +17,7 @@ I used to upload videos on Bilibili, Xigua, AiPai, Youku, Youtube. Now I only up
 
 I like to play Minecraft, Grand Theft Auto and Rhythm games.
 
-Mainly Rhythm games(Ability Large to Small): Phigros/ADOFAI/Orzmic/KALPA/Rhythm Doctor/MUSE DASH/Malody/MUSYNC/Cytus/Arcaea/osu!mania
+Mainly Rhythm games(Ability Large to Small): Phigros/ADOFAI/Malody/Orzmic/KALPA/Rhythm Doctor/MUSE DASH/MUSYNC/Cytus/Arcaea/osu!mania
 
 GrandTheftAuto: maybe Beta version for GTASA is up to date
 
