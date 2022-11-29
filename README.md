@@ -18,7 +18,7 @@
 
 主玩MC、GTA、各种音游
 
-主玩音游(实力由大到小): Phigros/ADOFAI/Orzmic/KALPA/节奏医生/MUSE DASH/Malody/喵赛克/Cytus/Arcaea/osu!mania
+主玩音游(实力由大到小):  Phigros/ADOFAI/Malody/Orzmic/KALPA/Rhythm Doctor/MUSE DASH/MUSYNC/Cytus/Arcaea/osu!mania
 
 GTA方面或许会继续更SA伪beta版
 
