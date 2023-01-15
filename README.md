@@ -26,7 +26,7 @@ MC主玩Hypixel，ID为X_huihui，有意者可以自行查战绩(不建议查，
 
 会写插件、写mod、做整合包、改材质包、PVP、整合服务端。设有自己的帮写mod+插件的网站(见专栏底部)
 
-音游现在在玩的是 Phigros + ADOFAI + Malod
+音游现在在玩的是 Phigros + ADOFAI + Malody
 
 
 擅长用：java、python、c#、易语言
