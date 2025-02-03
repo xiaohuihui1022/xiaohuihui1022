@@ -53,4 +53,4 @@ MC主玩Hypixel，ID为X_huihui，有意者可以自行查战绩(不建议查，
 
 <h2 align="center"><a href="https://xiaohuihui1022.github.io/">本人自建网站</a></h2>
 
-<h2 align="center"><a href="https://www.minept.top/">MPT(帮写mod网站)</a></h2>
+<h2 align="center"><a href="https://mpt.mooncc.cn/">MPT(帮写mod网站)</a></h2>
