@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=我是灰灰(X_huihui);来自河南濮阳的初三生)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=我是灰灰(X_huihui);来自河南濮阳的高三生)
 
 <h1 align="center">Choose Your Reading Language</h1>
 
@@ -54,3 +54,4 @@ MC主玩Hypixel，ID为X_huihui，有意者可以自行查战绩(不建议查，
 <h2 align="center"><a href="https://xiaohuihui1022.github.io/">本人自建网站</a></h2>
 
 <h2 align="center"><a href="https://mpt.mooncc.cn/">MPT(帮写mod网站)</a></h2>
+
