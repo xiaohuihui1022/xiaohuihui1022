@@ -39,7 +39,7 @@ MC主玩Hypixel，ID为X_huihui，有意者可以自行查战绩(不建议查，
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=TheWorstEngine)](https://github.com/MinecraftProgrammingTeam/PVPRank)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=log-lang-system)](https://github.com/xiaohuihui1022/Phrolova)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=Phrolova)](https://github.com/xiaohuihui1022/Phrolova)
 
 <h1 align="center">个人成就</h1>
 
