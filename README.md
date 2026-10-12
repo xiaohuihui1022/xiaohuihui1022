@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=我是灰灰(X_huihui);来自河南濮阳的高三生)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=我是灰灰(X_huihui);来自河南濮阳的大一生)
 
 <h1 align="center">Choose Your Reading Language</h1>
 
@@ -18,15 +18,15 @@
 
 主玩MC、GTA、各种音游
 
-主玩音游(实力由大到小):  Phigros/ADOFAI/Malody/Orzmic/KALPA/Rhythm Doctor/MUSE DASH/MUSYNC/Cytus/Arcaea/osu!mania
+主玩音游(实力由大到小):  ADOFAI/Phigros/Malody/Orzmic/KALPA/Rhythm Doctor/MUSE DASH/MUSYNC/Cytus/Arcaea/osu!mania
 
 GTA方面或许会继续更SA伪beta版
 
 MC主玩Hypixel，ID为X_huihui，有意者可以自行查战绩(不建议查，太拉了)
 
-会写插件、写mod、做整合包、改材质包、PVP、整合服务端。设有自己的帮写mod+插件的网站(见专栏底部)
+会写Minecraft插件、写mod、做整合包、改材质包、PVP、整合服务端。设有自己的帮写mod+插件的网站(见专栏底部)
 
-音游现在在玩的是 Phigros + ADOFAI + Malody
+音游现在在玩的是 Phigros + ADOFAI
 
 
 擅长用：java、python、c#、易语言
@@ -37,9 +37,9 @@ MC主玩Hypixel，ID为X_huihui，有意者可以自行查战绩(不建议查，
 
 目前在写的程序是:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=TheWorstEngine)](https://github.com/xiaohuihui1022/TheWorstEngine)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=TheWorstEngine)](https://github.com/MinecraftProgrammingTeam/PVPRank)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=log-lang-system)](https://github.com/xiaohuihui1022/log-lang-system)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=xiaohuihui1022&repo=log-lang-system)](https://github.com/xiaohuihui1022/Phrolova)
 
 <h1 align="center">个人成就</h1>
 
